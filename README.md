@@ -1,6 +1,6 @@
 ## What is Dagger?
 
-Dagger is a tool that lets you replace your software project's artisanal scripts with a modern API and cross-language scripting engine.
+Dagger is a command-line utility that lets you replace your software project's artisanal scripts with your favourite programming language.
 
 1. Encapsulate all your project's tasks and workflows into simple functions, written in your programming language of choice
 2. Dagger packages your functions into a custom GraphQL API
